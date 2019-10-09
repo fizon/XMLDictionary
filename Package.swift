@@ -14,6 +14,6 @@ let package = Package(
             name: "XMLDictionary",
             dependencies: [],
             path: "XMLDictionary",
-            publicHeadersPath: "XMLDictionary")
+            publicHeadersPath: "")
     ]
 )
